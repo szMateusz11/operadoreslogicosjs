@@ -5,8 +5,7 @@ num2 = prompt('Digite outro número');
 num2 = parseInt(num2);
 
 document.write('Mateus Dos Santos Beserra, RA: 420106055<br>');
-document.write('Números digitados:<br>num1: ' + num1 + '<br> num2: ' + num2 + '<hr>'
-);
+document.write('Números digitados:<br>num1: ' + num1 + '<br> num2: ' + num2 + '<hr>');
 
 res = num1 == num2;
 document.write('Igualdade: ' + res + '<br>');
